@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    background-image: url("images/fondo3.avif"); 
+    background-image: url("images/fondo2.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -27,9 +27,9 @@ body{
 
 .cuadro{
     width: 70%;
-    border: 4px dotted red;
+    border: 1px dotted rgb(51, 50, 50);
     border-radius: 30rem;
-    background-color: aquamarine;
+    background-color: rgb(142, 119, 184);
     text-align: center;
 }
 
